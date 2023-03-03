@@ -1,4 +1,4 @@
-Hi! I'm Arkes, I'm an Italian(🇮🇹) developer 
+Hi! I'm Arkes, I'm a developer 
 
 with the aim of creating and developing resources for various games and apps.
 
